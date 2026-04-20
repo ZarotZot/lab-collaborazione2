@@ -7,5 +7,3 @@ def arrivederci(nome):
     return f"Arrivederci, {nome}."
 
 print(arrivederci("Matteo"))
-
-
